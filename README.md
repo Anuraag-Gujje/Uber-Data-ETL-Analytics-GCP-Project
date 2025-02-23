@@ -42,6 +42,6 @@ Key Features
 3. Automation using Apache Airflow DAGs.
 
 ## Visualization Dashboard
-- **Looker Studio Link**: 
+- **Looker Studio Link**: https://lookerstudio.google.com/reporting/2a610636-8521-4614-aa43-4691bd903d39
 
 This project follows a modern data engineering approach using GCP and Apache Airflow to automate the Uber data ETL pipeline and enable analytics through BigQuery and Looker Studio.
